@@ -116,9 +116,9 @@ Diagnosed and fixed a misleading error in **LangChain**'s `SQLiteEntityStore` (m
 <img src="https://github-stats-extended.vercel.app/api?username=OmRajput17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=OmRajput17&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmRajput17&theme=tokyo-night&hide_border=true" width="98%"/>
+<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=OmRajput17&theme=tokyo-night&hide_border=true" width="98%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=OmRajput17&theme=tokyonight&no-frame=true&row=1&column=6" width="98%"/>
+<!-- <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=OmRajput17&theme=tokyonight&no-frame=true&row=1&column=6" width="98%"/> -->
 
 </div>
 
